@@ -6,4 +6,4 @@ I have a passion for sports analytics, in particular football (soccer) and golf.
 
 Feel free to check out my website where I will be adding statistical tools, models, and articles:
 
-[https://johnknightstats.github.io](https://johnknightstats.github.io)
+[https://johnknightstats.com](https://johnknightstats.com)
